@@ -173,17 +173,20 @@ How to Compile and Run
 
 G. Screenshots
 
-Successful CRUD (ss 1)
-Image embedded in README.
+Successful CRUD 
+<img width="1822" height="769" alt="ss1" src="https://github.com/user-attachments/assets/e670e5c8-8291-4216-a770-b7f9ac8ab02b" />
 
-Validation Failures (ss 2)
-Image embedded in README.
 
-Reflection Utility Output (ss 3)
-Image embedded in README.
+Validation Failures
+<img width="1811" height="922" alt="ss2" src="https://github.com/user-attachments/assets/6e8321e3-92b7-43bc-9110-a4cb8aadfcf0" />
 
-Sorted Lists Showing Lambdas (ss 4)
-Image embedded in README.
+
+Reflection Utility Output 
+<img width="442" height="270" alt="ss3" src="https://github.com/user-attachments/assets/fcea8b1a-d121-4c1e-bafc-134ebca5ca0e" />
+
+
+Sorted Lists Showing Lambdas 
+<img width="331" height="75" alt="ss4" src="https://github.com/user-attachments/assets/603c30f6-137e-48bc-a378-133dc591ce73" />
 
 
 H. Reflection
